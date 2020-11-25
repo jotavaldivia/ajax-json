@@ -1,0 +1,32 @@
+ [
+{
+    "nombre": "juan valdebenito",
+    "email": "juan@gmail.com",
+    "edad":"26",
+    "url": "https://www.bennet.senate.gov/public/index.cfm/"
+},
+{
+    "nombre": "pedro correa",
+    "email": "pedro@gmail.com",
+    "edad":"20",
+    "url": "https://www.google.cl"
+},
+{
+    "nombre": "marcos andres",
+    "email": "marcosn@gmail.com",
+    "edad":"30",
+    "url": "https://www.google.cl"
+},
+{
+    "nombre": "javier gonzalez",
+    "email": "javier@gmail.com",
+    "edad":"35",
+    "url": "https://www.google.cl"
+},
+{
+    "nombre": "jose fernandez",
+    "email": "pedro@gmail.com",
+    "edad":"40",
+    "url": "https://www.google.cl"
+}
+]

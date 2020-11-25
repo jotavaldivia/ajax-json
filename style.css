@@ -1,0 +1,15 @@
+
+h1{
+    margin-top: 10% ;
+}
+
+table{
+    font-size:20px ;
+    margin:auto;
+    border: black solid 3px;
+}
+
+tr,td{
+    border: black solid 3px;
+  padding: 10px;
+}
